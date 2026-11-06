@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("%c%c%c%c%c%c", 78, 69, 86, 69, 82, 32);
+    printf("%c%c%c%c%c%c", 71, 79, 78, 78, 65, 32);
+    printf("%c%c%c%c%c", 71, 73, 86, 69, 32);
+    printf("%c%c%c%c", 89, 79, 85, 32);
+    printf("%c%c%c\n", 85, 80, 33);
+
+    return 0;
+}
